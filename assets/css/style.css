@@ -639,11 +639,13 @@ footer a:hover {
         margin-left: auto;
         margin-right: auto;
     }
-    .product-image {
-        display: none;
-    }
+    .product-image{
+	margin-top:-50px;
+     }
+   
     .product-title h1,
     .product-title div.product-description {
+
         padding-left: 40px;
     }
     .product-title div.product-description form {
